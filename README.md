@@ -32,4 +32,8 @@ This project analyzes a given text to extract useful insights such as word frequ
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/TextAnalyzer.git
-
+2. Navigate to the project folder:
+   cd TextAnalyzer
+3. Run the program:
+   python text_analyzer.py
+4. Enter a sentence when prompted.
